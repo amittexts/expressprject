@@ -1,0 +1,19 @@
+{
+  "name": "project_express",
+  "version": "1.0.0",
+  "description": "1st express project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Amit Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6",
+    "morgan": "^1.10.0"
+  }
+}
